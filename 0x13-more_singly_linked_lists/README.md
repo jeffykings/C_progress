@@ -1,4 +1,4 @@
-# \_\_\_\_\_\_MORE SINGLY LINKED LIST\_\_\_\_\_\_
+# MORE SINGLY LINKED LIST
 
 ### _Brief description of all the repo_
 
