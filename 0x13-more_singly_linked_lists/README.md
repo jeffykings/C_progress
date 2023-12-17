@@ -1,4 +1,4 @@
-#\_\_\_\_\_\_MORE SINGLY LINKED LIST\_\_\_\_\_\_
+# \_\_\_\_\_\_MORE SINGLY LINKED LIST\_\_\_\_\_\_
 
 _Contains solutions to singly linked list_
 
@@ -19,4 +19,4 @@ _Contains solutions to singly linked list_
 * __103-find_loop.c__: finds the loop in a linked list.
 
 
-######\_\_\_\_\_ʝķ₇\_\_\_\_\_
+###### \_\_\_\_\_ʝķ₇\_\_\_\_\_
