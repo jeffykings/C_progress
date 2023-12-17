@@ -19,4 +19,4 @@
 * __103-find_loop.c__: finds the loop in a linked list.
 
 
-#### \_\_\_\_\_ʝķ₇\_\_\_\_\_
+                                                                          #### ʝķ₇
