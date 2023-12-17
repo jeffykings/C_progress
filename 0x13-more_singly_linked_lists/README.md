@@ -18,5 +18,4 @@
 * __102-free_listint_safe.c__: frees a listint_t list.
 * __103-find_loop.c__: finds the loop in a linked list.
 
-
-                                                                          #### ʝķ₇
+     #### ʝķ₇
